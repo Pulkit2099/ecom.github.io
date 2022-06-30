@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ecom.github.io/static/css/main.15d63c25.chunk.css",
+    "main.js": "/ecom.github.io/static/js/main.0bfe0b9e.chunk.js",
+    "main.js.map": "/ecom.github.io/static/js/main.0bfe0b9e.chunk.js.map",
+    "runtime-main.js": "/ecom.github.io/static/js/runtime-main.924d3687.js",
+    "runtime-main.js.map": "/ecom.github.io/static/js/runtime-main.924d3687.js.map",
+    "static/js/2.f49558ed.chunk.js": "/ecom.github.io/static/js/2.f49558ed.chunk.js",
+    "static/js/2.f49558ed.chunk.js.map": "/ecom.github.io/static/js/2.f49558ed.chunk.js.map",
+    "static/js/3.eaf2ff8f.chunk.js": "/ecom.github.io/static/js/3.eaf2ff8f.chunk.js",
+    "static/js/3.eaf2ff8f.chunk.js.map": "/ecom.github.io/static/js/3.eaf2ff8f.chunk.js.map",
+    "index.html": "/ecom.github.io/index.html",
+    "static/css/main.15d63c25.chunk.css.map": "/ecom.github.io/static/css/main.15d63c25.chunk.css.map",
+    "static/js/2.f49558ed.chunk.js.LICENSE.txt": "/ecom.github.io/static/js/2.f49558ed.chunk.js.LICENSE.txt",
+    "static/media/banner.65c54104.jpg": "/ecom.github.io/static/media/banner.65c54104.jpg",
+    "static/media/mobiles.dcddf236.png": "/ecom.github.io/static/media/mobiles.dcddf236.png",
+    "static/media/oppop.f6903b27.jpg": "/ecom.github.io/static/media/oppop.f6903b27.jpg",
+    "static/media/redmi.a456aca9.jpg": "/ecom.github.io/static/media/redmi.a456aca9.jpg",
+    "static/media/tshirt-2.5390701d.jpg": "/ecom.github.io/static/media/tshirt-2.5390701d.jpg",
+    "static/media/tshirt.4571395a.jpg": "/ecom.github.io/static/media/tshirt.4571395a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.924d3687.js",
+    "static/js/2.f49558ed.chunk.js",
+    "static/css/main.15d63c25.chunk.css",
+    "static/js/main.0bfe0b9e.chunk.js"
+  ]
+}
